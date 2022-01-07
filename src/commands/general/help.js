@@ -15,8 +15,7 @@ module.exports = {
       },
     ];
 
-    let msg =
-      "--------------------- \n🐺 Werewolf Game 🐺 \n--------------------- \nUntuk bermain werewolf, ketik /werewolf/buat";
+    let msg = "Hello";
 
     const templateMessage = {
       text: msg,
